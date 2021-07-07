@@ -23,7 +23,8 @@
 
 
 # GIF
-https://user-images.githubusercontent.com/86009586/124748355-a4c1d700-df40-11eb-8487-f8d9ecbfbdae.mp4
+![GIF](https://user-images.githubusercontent.com/86009586/124752265-43e8cd80-df45-11eb-8a0e-a9a99af2059e.gif)
+
 
 
 
